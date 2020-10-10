@@ -1,5 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ### Link to the Course: [React Tutorial for Beginners by Mosh](https://youtu.be/Ke90Tje7VS0)
 
 ### Concepts learnt about
